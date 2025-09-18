@@ -20,7 +20,7 @@ function Home() {
       uri: "/demo.pdf", // for local file
     },
     {
-      uri: "https://github.com/kartikxisk/docx-xlsx-pptx-pdf-viewer-nextjs-and-reactjs/files/11781031/demo.docx", // for remote file
+      uri: "/demo.docx", // for remote file
       // uri: "/demo.pptx", // for local file
     },
     {
